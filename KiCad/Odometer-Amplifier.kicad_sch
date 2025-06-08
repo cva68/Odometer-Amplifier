@@ -1074,7 +1074,7 @@
     (pin "1" (uuid d7f6b2cf-98c1-4814-9f0d-6757951232e0))
     (pin "2" (uuid 5c3d56f8-46bf-40d2-b910-431b818b5fb3))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "R2") (unit 1)
         )
@@ -1099,7 +1099,7 @@
     )
     (pin "1" (uuid c83026d7-7395-4380-b034-5a3417e3020f))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR017") (unit 1)
         )
@@ -1125,7 +1125,7 @@
     (pin "1" (uuid 2076eb9b-8126-4e50-9a80-22025e0efa10))
     (pin "2" (uuid fafebe72-11ad-4dce-bedb-78a8654237c1))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "R7") (unit 1)
         )
@@ -1157,7 +1157,7 @@
     (pin "2" (uuid 2c81cabc-e19e-46d1-929c-c25e00f4dba8))
     (pin "1" (uuid 5f6c56a8-2412-4639-9356-fac5481a19ea))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "B1") (unit 1)
         )
@@ -1199,7 +1199,7 @@
     (pin "2" (uuid 87b72faa-f539-4cf3-af74-e2d877ff4652))
     (pin "1" (uuid 47f78676-fb62-49c0-8494-41fd20384249))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "Q1") (unit 1)
         )
@@ -1225,7 +1225,7 @@
     (pin "1" (uuid 5402f394-d971-4784-808c-f39e1c203c5d))
     (pin "2" (uuid d1c9b5d8-d913-4461-b868-7273811554d1))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "C1") (unit 1)
         )
@@ -1250,7 +1250,7 @@
     )
     (pin "1" (uuid c1d30230-ed9f-4cbd-b236-173895a20a67))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR09") (unit 1)
         )
@@ -1294,7 +1294,7 @@
     (pin "1" (uuid 569721ce-a549-4c02-bd48-dd1fc86add46))
     (pin "5" (uuid a2f35202-7f37-4034-a869-744cd4410a63))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "U1") (unit 2)
         )
@@ -1320,7 +1320,7 @@
     (pin "2" (uuid 36c9ffa6-9579-4bd6-8a9b-cf2db3b71eae))
     (pin "1" (uuid 201f0786-b074-4093-8700-c84d06972d54))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "R3") (unit 1)
         )
@@ -1345,7 +1345,7 @@
     )
     (pin "1" (uuid 36b66e65-c852-4d1d-b184-b26f302a790b))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR06") (unit 1)
         )
@@ -1371,7 +1371,7 @@
     (pin "2" (uuid 0d65d579-bdd2-438f-bed0-7e00c4db90c5))
     (pin "1" (uuid df76bc93-2216-4750-b8c5-bb51b820bcbf))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "R1") (unit 1)
         )
@@ -1397,7 +1397,7 @@
     (pin "2" (uuid f71894f5-5cd2-4b0a-9dee-3282924dd434))
     (pin "1" (uuid b0ce1e06-5832-4cf8-807f-b84e68cdcb66))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "R4") (unit 1)
         )
@@ -1423,7 +1423,7 @@
     (pin "1" (uuid 1cdff9cf-d52e-489a-af2b-a064e17ea65e))
     (pin "2" (uuid ae9474ec-13ac-47e1-8c83-e8df1986c9d7))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "L1") (unit 1)
         )
@@ -1448,7 +1448,7 @@
     )
     (pin "1" (uuid 0eb3483f-3d7b-426a-b22d-0429032b61df))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR04") (unit 1)
         )
@@ -1473,7 +1473,7 @@
     )
     (pin "1" (uuid f95e7c6b-852a-422a-8c3d-24d48dfcd128))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR02") (unit 1)
         )
@@ -1498,7 +1498,7 @@
     )
     (pin "1" (uuid 8dc5d800-1c79-4fca-9fff-e7092976e1ea))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR05") (unit 1)
         )
@@ -1524,7 +1524,7 @@
     (pin "1" (uuid 08ea49ca-69fc-48df-812e-78353aa2a627))
     (pin "2" (uuid 658f2e54-ae8d-4f47-a5cc-7181f370a627))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "C2") (unit 1)
         )
@@ -1549,7 +1549,7 @@
     )
     (pin "1" (uuid 2cfb63ce-75b1-4ed1-8db4-9bebabf6a651))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR07") (unit 1)
         )
@@ -1574,7 +1574,7 @@
     )
     (pin "1" (uuid a29f39f1-34bb-4369-8df1-2bee96beba89))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR012") (unit 1)
         )
@@ -1612,7 +1612,7 @@
     (pin "2" (uuid d528f93a-6b0e-408c-894a-3fcea5d37cc2))
     (pin "1" (uuid a890b13f-b453-4983-85c7-a567e163b425))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "V2") (unit 1)
         )
@@ -1637,7 +1637,7 @@
     )
     (pin "1" (uuid 720da129-d00a-4e4c-b069-e7dce6b4263a))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR01") (unit 1)
         )
@@ -1662,7 +1662,7 @@
     )
     (pin "1" (uuid 7d77984c-fdfd-4bd2-bcd2-ea3ae88d2b14))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR010") (unit 1)
         )
@@ -1706,7 +1706,7 @@
     (pin "1" (uuid 569721ce-a549-4c02-bd48-dd1fc86add47))
     (pin "5" (uuid a2f35202-7f37-4034-a869-744cd4410a64))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "U1") (unit 1)
         )
@@ -1731,7 +1731,7 @@
     )
     (pin "1" (uuid cfafae6d-2152-4b52-af8a-3c43adfc9900))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR013") (unit 1)
         )
@@ -1756,7 +1756,7 @@
     )
     (pin "1" (uuid 9f06a16a-f3bb-4f9d-9149-0f34a4488dea))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR018") (unit 1)
         )
@@ -1782,7 +1782,7 @@
     (pin "2" (uuid 3e595b3f-6b01-439a-a825-c326db17e979))
     (pin "1" (uuid 86057888-6003-47e7-9e5d-398f918556ec))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "R5") (unit 1)
         )
@@ -1807,7 +1807,7 @@
     )
     (pin "1" (uuid 759a0a29-a9d2-4fa9-b284-5e2ac1de10ab))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR08") (unit 1)
         )
@@ -1816,7 +1816,7 @@
   )
 
   (symbol (lib_id "enel200_uc_kicad7:UC_R") (at 77.47 154.305 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a560f87c-f604-4438-93c5-31ce8045fd2c)
     (property "Reference" "R6" (at 80.01 153.035 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1833,7 +1833,7 @@
     (pin "2" (uuid 779f8354-c11b-4e28-ab71-0c7bb2a43ce5))
     (pin "1" (uuid 0b744516-4223-4e06-91f8-f8ec08928d96))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "R6") (unit 1)
         )
@@ -1858,7 +1858,7 @@
     )
     (pin "1" (uuid a35a9119-b3f8-4e6a-bc5c-cf1e84d1a74c))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR015") (unit 1)
         )
@@ -1888,7 +1888,7 @@
     (pin "2" (uuid 8fb8c530-99a6-4321-bea0-5db807c24dde))
     (pin "3" (uuid dd727385-a31f-4364-9884-b2a9741c8676))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "J2") (unit 1)
         )
@@ -1913,7 +1913,7 @@
     )
     (pin "1" (uuid 0b14909e-65f7-40c4-b833-4d5c05ec8874))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR011") (unit 1)
         )
@@ -1938,7 +1938,7 @@
     )
     (pin "1" (uuid 403cf5e3-3d66-4d51-a976-8ddb28fa202f))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR014") (unit 1)
         )
@@ -1963,7 +1963,7 @@
     )
     (pin "1" (uuid 8e41a1b2-f361-4d85-86f0-b169e14d72d6))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR019") (unit 1)
         )
@@ -1988,7 +1988,7 @@
     )
     (pin "1" (uuid eae3e405-d2a3-4ce2-be4b-5b1584451d32))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#FLG01") (unit 1)
         )
@@ -2013,7 +2013,7 @@
     )
     (pin "1" (uuid 5c5a96fb-f01b-4c09-98d0-34cb453c31a8))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR016") (unit 1)
         )
@@ -2038,7 +2038,7 @@
     )
     (pin "1" (uuid e8d3792f-bbb4-46a2-b3d4-6aee7774dddb))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "#PWR03") (unit 1)
         )
@@ -2068,7 +2068,7 @@
     (pin "2" (uuid 03b5869b-4973-4a5c-8077-84c535cdc3ff))
     (pin "3" (uuid db3412a4-8b72-4f68-a774-67ee1bd6ae2d))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "J1") (unit 1)
         )
@@ -2094,7 +2094,7 @@
     (pin "2" (uuid 05643408-16ae-4428-82bb-e1af3a4a6699))
     (pin "1" (uuid 47fd494d-1bac-4320-9696-ca9fe4a087c3))
     (instances
-      (project "STM32-Pomodoro"
+      (project "Odometer-Amplifier"
         (path "/e43dba7a-a14f-4ec4-a129-d7939f06e55a"
           (reference "C3") (unit 1)
         )
